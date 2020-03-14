@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geipiecel.democome.com/sitemap.xml
